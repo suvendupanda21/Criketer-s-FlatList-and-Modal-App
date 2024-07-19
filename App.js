@@ -1,6 +1,3 @@
-Here is the complete code with styles:
-
-
 import React, { useState } from "react";
 import {
   FlatList,
